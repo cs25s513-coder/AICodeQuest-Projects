@@ -1,0 +1,61 @@
+:root {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background: #000;
+  overflow: hidden;
+  font-family: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
+}
+
+#scene {
+  position: fixed;
+  inset: 0;
+  display: block;
+  touch-action: none;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 32px clamp(16px, 5vw, 48px);
+  pointer-events: none;
+  color: #f4ece0;
+  text-shadow: 0 2px 20px rgba(0, 0, 0, 0.8);
+}
+
+.overlay h1 {
+  margin: 0;
+  font-size: clamp(1.4rem, 4vw, 2.1rem);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.overlay .tagline {
+  margin: 4px 0 0;
+  color: #ffb37a;
+  font-size: 0.95rem;
+}
+
+.overlay .hint {
+  margin: 24px 0 0;
+  font-size: 0.78rem;
+  color: #8a8478;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+@media (max-width: 480px) {
+  .overlay .hint {
+    display: none;
+  }
+}
