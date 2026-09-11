@@ -1,0 +1,51 @@
+[
+  {
+    "id": "artemis-clipper",
+    "name": "Artemis Clipper",
+    "description": "Our workhorse lunar shuttle. Fast, reliable, and surprisingly good coffee.",
+    "cabin_classes": ["economy", "business"],
+    "seat_map": [
+      "....",
+      "....",
+      "..X.",
+      "...."
+    ]
+  },
+  {
+    "id": "starhopper-nova",
+    "name": "Starhopper Nova",
+    "description": "A reusable hopper built for short orbital jumps and the Gateway run.",
+    "cabin_classes": ["economy", "business", "lunar_suite"],
+    "seat_map": [
+      "......",
+      ".XX...",
+      "......",
+      "....X."
+    ]
+  },
+  {
+    "id": "aurora-shuttle",
+    "name": "Aurora Shuttle",
+    "description": "The Orbital Hotel Aurora's dedicated ferry — mostly windows, barely any hull.",
+    "cabin_classes": ["economy", "business"],
+    "seat_map": [
+      "....",
+      "....",
+      "....",
+      "X..."
+    ]
+  },
+  {
+    "id": "voyager-prime",
+    "name": "Voyager Prime",
+    "description": "Deep-space liner for the long haul to Mars and Phobos.",
+    "cabin_classes": ["economy", "business", "lunar_suite"],
+    "seat_map": [
+      "......",
+      "......",
+      "X.XX..",
+      "......",
+      "...X.."
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {"code": "LAUNCH10", "type": "percent", "value": 10, "min_spend_inr": 10000, "max_discount_inr": 5000, "expires": "2026-12-31"},
+  {"code": "FIRSTORBIT", "type": "flat", "value": 2000, "min_spend_inr": 5000, "expires": "2026-06-30"},
+  {"code": "MOONWALK", "type": "percent", "value": 15, "min_spend_inr": 20000, "max_discount_inr": 12000, "expires": "2027-01-31"},
+  {"code": "CREW500", "type": "flat", "value": 500, "min_spend_inr": 0, "expires": "2026-10-15"},
+  {"code": "STARRY20", "type": "percent", "value": 20, "min_spend_inr": 30000, "max_discount_inr": 20000, "expires": "2026-11-30"},
+  {"code": "WELCOME", "type": "flat", "value": 1000, "min_spend_inr": 3000, "expires": "2025-12-31"}
+]

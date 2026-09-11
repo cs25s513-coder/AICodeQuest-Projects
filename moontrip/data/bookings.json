@@ -1,0 +1,31 @@
+[
+  {"id": "bk-001", "user_id": "u1", "destination_id": "moon", "craft_id": "artemis-clipper", "cabin": "economy", "passenger_count": 2, "launch_date": "2025-11-10", "total_inr": 13640, "status": "completed", "booked_on": "2025-09-01"},
+  {"id": "bk-002", "user_id": "u1", "destination_id": "orbital-hotel-aurora", "craft_id": "aurora-shuttle", "cabin": "business", "passenger_count": 1, "launch_date": "2026-01-15", "total_inr": 6510, "status": "upcoming", "booked_on": "2025-12-01"},
+  {"id": "bk-003", "user_id": "u1", "destination_id": "iss-heritage", "craft_id": "starhopper-nova", "cabin": "economy", "passenger_count": 2, "launch_date": "2025-08-20", "total_inr": 10800, "status": "completed", "booked_on": "2025-06-10"},
+  {"id": "bk-004", "user_id": "u1", "destination_id": "moon", "craft_id": "artemis-clipper", "cabin": "lunar_suite", "passenger_count": 1, "launch_date": "2026-05-12", "total_inr": 18600, "status": "upcoming", "booked_on": "2026-02-01"},
+  {"id": "bk-005", "user_id": "u1", "destination_id": "lunar-gateway", "craft_id": "starhopper-nova", "cabin": "economy", "passenger_count": 3, "launch_date": "2025-04-05", "total_inr": 14400, "status": "cancelled", "booked_on": "2025-02-20"},
+
+  {"id": "bk-006", "user_id": "u2", "destination_id": "mars", "craft_id": "voyager-prime", "cabin": "business", "passenger_count": 1, "launch_date": "2026-07-01", "total_inr": 320400, "status": "upcoming", "booked_on": "2025-10-05"},
+  {"id": "bk-007", "user_id": "u2", "destination_id": "moon", "craft_id": "artemis-clipper", "cabin": "economy", "passenger_count": 2, "launch_date": "2025-09-08", "total_inr": 13020, "status": "completed", "booked_on": "2025-07-15"},
+  {"id": "bk-008", "user_id": "u2", "destination_id": "orbital-hotel-aurora", "craft_id": "aurora-shuttle", "cabin": "economy", "passenger_count": 4, "launch_date": "2026-06-20", "total_inr": 14260, "status": "upcoming", "booked_on": "2026-03-01"},
+  {"id": "bk-009", "user_id": "u2", "destination_id": "iss-heritage", "craft_id": "starhopper-nova", "cabin": "business", "passenger_count": 1, "launch_date": "2025-05-14", "total_inr": 9720, "status": "completed", "booked_on": "2025-03-01"},
+  {"id": "bk-010", "user_id": "u2", "destination_id": "phobos", "craft_id": "voyager-prime", "cabin": "economy", "passenger_count": 1, "launch_date": "2026-02-10", "total_inr": 159600, "status": "cancelled", "booked_on": "2025-11-01"},
+
+  {"id": "bk-011", "user_id": "u3", "destination_id": "moon", "craft_id": "artemis-clipper", "cabin": "business", "passenger_count": 2, "launch_date": "2026-03-05", "total_inr": 22320, "status": "upcoming", "booked_on": "2025-12-20"},
+  {"id": "bk-012", "user_id": "u3", "destination_id": "lunar-gateway", "craft_id": "starhopper-nova", "cabin": "economy", "passenger_count": 1, "launch_date": "2025-06-18", "total_inr": 4800, "status": "completed", "booked_on": "2025-04-01"},
+  {"id": "bk-013", "user_id": "u3", "destination_id": "iss-heritage", "craft_id": "starhopper-nova", "cabin": "economy", "passenger_count": 2, "launch_date": "2025-11-25", "total_inr": 11880, "status": "completed", "booked_on": "2025-09-10"},
+  {"id": "bk-014", "user_id": "u3", "destination_id": "orbital-hotel-aurora", "craft_id": "aurora-shuttle", "cabin": "lunar_suite", "passenger_count": 1, "launch_date": "2026-08-01", "total_inr": 10695, "status": "upcoming", "booked_on": "2026-05-01"},
+  {"id": "bk-015", "user_id": "u3", "destination_id": "moon", "craft_id": "artemis-clipper", "cabin": "economy", "passenger_count": 1, "launch_date": "2025-01-15", "total_inr": 6820, "status": "cancelled", "booked_on": "2024-11-01"},
+
+  {"id": "bk-016", "user_id": "u4", "destination_id": "mars", "craft_id": "voyager-prime", "cabin": "economy", "passenger_count": 2, "launch_date": "2027-01-01", "total_inr": 356000, "status": "upcoming", "booked_on": "2026-04-01"},
+  {"id": "bk-017", "user_id": "u4", "destination_id": "moon", "craft_id": "artemis-clipper", "cabin": "economy", "passenger_count": 3, "launch_date": "2025-07-22", "total_inr": 20460, "status": "completed", "booked_on": "2025-05-01"},
+  {"id": "bk-018", "user_id": "u4", "destination_id": "iss-heritage", "craft_id": "starhopper-nova", "cabin": "business", "passenger_count": 1, "launch_date": "2025-12-12", "total_inr": 11880, "status": "completed", "booked_on": "2025-10-01"},
+  {"id": "bk-019", "user_id": "u4", "destination_id": "lunar-gateway", "craft_id": "starhopper-nova", "cabin": "economy", "passenger_count": 2, "launch_date": "2026-04-10", "total_inr": 9600, "status": "upcoming", "booked_on": "2026-01-15"},
+  {"id": "bk-020", "user_id": "u4", "destination_id": "orbital-hotel-aurora", "craft_id": "aurora-shuttle", "cabin": "economy", "passenger_count": 1, "launch_date": "2025-03-01", "total_inr": 3255, "status": "cancelled", "booked_on": "2025-01-10"},
+
+  {"id": "bk-021", "user_id": "u5", "destination_id": "phobos", "craft_id": "voyager-prime", "cabin": "business", "passenger_count": 1, "launch_date": "2027-05-01", "total_inr": 273600, "status": "upcoming", "booked_on": "2026-06-01"},
+  {"id": "bk-022", "user_id": "u5", "destination_id": "moon", "craft_id": "artemis-clipper", "cabin": "economy", "passenger_count": 2, "launch_date": "2025-10-02", "total_inr": 13640, "status": "completed", "booked_on": "2025-08-01"},
+  {"id": "bk-023", "user_id": "u5", "destination_id": "orbital-hotel-aurora", "craft_id": "aurora-shuttle", "cabin": "business", "passenger_count": 2, "launch_date": "2026-12-24", "total_inr": 15624, "status": "upcoming", "booked_on": "2026-07-01"},
+  {"id": "bk-024", "user_id": "u5", "destination_id": "iss-heritage", "craft_id": "starhopper-nova", "cabin": "economy", "passenger_count": 1, "launch_date": "2025-02-18", "total_inr": 5940, "status": "completed", "booked_on": "2024-12-15"},
+  {"id": "bk-025", "user_id": "u5", "destination_id": "moon", "craft_id": "artemis-clipper", "cabin": "economy", "passenger_count": 4, "launch_date": "2026-09-30", "total_inr": 27280, "status": "upcoming", "booked_on": "2026-08-01"}
+]

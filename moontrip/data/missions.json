@@ -1,0 +1,50 @@
+[
+  {
+    "id": "artemis-ix",
+    "name": "Artemis IX — Lunar Landing",
+    "destination_id": "moon",
+    "timeline": [
+      {"phase": "liftoff", "starts_at_hour": 0},
+      {"phase": "orbit insertion", "starts_at_hour": 1},
+      {"phase": "trans-lunar injection", "starts_at_hour": 3},
+      {"phase": "lunar orbit", "starts_at_hour": 75},
+      {"phase": "descent", "starts_at_hour": 96},
+      {"phase": "surface operations", "starts_at_hour": 100},
+      {"phase": "ascent", "starts_at_hour": 268},
+      {"phase": "return cruise", "starts_at_hour": 272},
+      {"phase": "splashdown", "starts_at_hour": 344}
+    ]
+  },
+  {
+    "id": "gateway-shuttle-4",
+    "name": "Gateway Shuttle 4",
+    "destination_id": "lunar-gateway",
+    "timeline": [
+      {"phase": "liftoff", "starts_at_hour": 0},
+      {"phase": "orbit insertion", "starts_at_hour": 1},
+      {"phase": "trans-lunar cruise", "starts_at_hour": 4},
+      {"phase": "gateway docking", "starts_at_hour": 70},
+      {"phase": "station stay", "starts_at_hour": 74},
+      {"phase": "undocking", "starts_at_hour": 122},
+      {"phase": "return cruise", "starts_at_hour": 126},
+      {"phase": "splashdown", "starts_at_hour": 196}
+    ]
+  },
+  {
+    "id": "ares-odyssey-2",
+    "name": "Ares Odyssey II",
+    "destination_id": "mars",
+    "timeline": [
+      {"phase": "liftoff", "starts_at_hour": 0},
+      {"phase": "orbit insertion", "starts_at_hour": 1},
+      {"phase": "trans-mars injection", "starts_at_hour": 6},
+      {"phase": "deep space cruise", "starts_at_hour": 48},
+      {"phase": "mars orbit insertion", "starts_at_hour": 5040},
+      {"phase": "descent", "starts_at_hour": 5064},
+      {"phase": "surface operations", "starts_at_hour": 5088},
+      {"phase": "ascent", "starts_at_hour": 8760},
+      {"phase": "return cruise", "starts_at_hour": 8784},
+      {"phase": "splashdown", "starts_at_hour": 12960}
+    ]
+  }
+]
